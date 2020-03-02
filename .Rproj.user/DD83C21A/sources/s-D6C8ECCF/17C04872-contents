@@ -26,4 +26,4 @@ full_p <- plot_grid(p1, p2,
                     label_size = 12)
 
 ggsave(full_p, height = 16, width = 14, unit = "cm",device = "tiff", filename = "proj_edited.tiff")
-ggsave(full_p, height = 16, width = 14, unit = "cm",device = "tiff", filename = "proj_edited.png")
+ggsave(full_p, height = 16, width = 14, unit = "cm",device = "png", filename = "proj_edited.png")
