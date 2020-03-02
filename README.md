@@ -1,3 +1,3 @@
 World projection visual for a book chapter on GIS.
 
-![visuals](proj_edited.tiff)
+![visuals](proj_edited.png)
