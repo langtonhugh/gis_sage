@@ -2,18 +2,18 @@
     "collab_server" : "",
     "contents" : "",
     "created" : 1583168229919.000,
-    "dirty" : false,
+    "dirty" : true,
     "encoding" : "UTF-8",
     "folds" : "",
     "hash" : "0",
     "id" : "17C04872",
-    "lastKnownWriteTime" : 1583168389,
-    "last_content_update" : 1583168389242,
+    "lastKnownWriteTime" : 1583168747,
+    "last_content_update" : 1583168749464,
     "path" : "~/GitHub/gis_sage/proj_visuals.R",
     "project_path" : "proj_visuals.R",
     "properties" : {
-        "cursorPosition" : "26,0",
-        "scrollLine" : "0"
+        "cursorPosition" : "29,0",
+        "scrollLine" : "1"
     },
     "read_only" : false,
     "read_only_alternatives" : [
